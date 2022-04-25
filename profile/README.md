@@ -1,7 +1,7 @@
-## Hi there 👋
+
+<a href="https://sm.ms/image/3GyzKWIYFqmHBnT" target="_blank"><img src="https://s2.loli.net/2022/04/25/3GyzKWIYFqmHBnT.png" ></a>
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
@@ -10,3 +10,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+### 🙋‍♀️ A short introduction
+
+We are sub-group of [Cyclododecene](https://github.com/Cyclododecene), mainly focusing on quantitative economics, sociology and communication research.
+
