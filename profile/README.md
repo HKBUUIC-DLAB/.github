@@ -1,6 +1,3 @@
-
-<a href="https://sm.ms/image/3GyzKWIYFqmHBnT" target="_blank"><img src="https://s2.loli.net/2022/04/25/3GyzKWIYFqmHBnT.png" ></a>
-
 <!--
 **Here are some ideas to get you started:**
 
@@ -11,9 +8,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-### 🙋‍♀️ A short introduction
+### <a href="https://sm.ms/image/3GyzKWIYFqmHBnT" target="_blank"><img src="https://s2.loli.net/2022/04/25/3GyzKWIYFqmHBnT.png" ></a>
 
-We are sub-group of [Cyclododecene](https://github.com/Cyclododecene), mainly focusing on quantitative economics, sociology and communication research:
+🙋‍ We are sub-group of [Cyclododecene](https://github.com/Cyclododecene), mainly focusing on quantitative economics, sociology and communication research:
 
 1. Interpretable machine learning
 2. Casual inference
