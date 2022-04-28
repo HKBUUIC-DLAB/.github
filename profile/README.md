@@ -13,5 +13,8 @@
 
 ### 🙋‍♀️ A short introduction
 
-We are sub-group of [Cyclododecene](https://github.com/Cyclododecene), mainly focusing on quantitative economics, sociology and communication research.
+We are sub-group of [Cyclododecene](https://github.com/Cyclododecene), mainly focusing on quantitative economics, sociology and communication research:
 
+1. Interpretable machine learning
+2. Casual inference
+3. Propogation on structured data
