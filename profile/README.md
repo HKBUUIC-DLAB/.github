@@ -10,7 +10,7 @@
 
 ### <a href="https://sm.ms/image/3GyzKWIYFqmHBnT" target="_blank"><img src="https://s2.loli.net/2022/04/25/3GyzKWIYFqmHBnT.png" ></a>
 
-🙋‍ We are sub-group of [Cyclododecene](https://github.com/Cyclododecene), mainly focusing on quantitative economics, sociology and communication research:
+🙋‍ This is a sub-group of [Cyclododecene](https://github.com/Cyclododecene), mainly focusing on quantitative economics, sociology and communication research:
 
 1. Interpretable machine learning
 2. Casual inference
