@@ -14,4 +14,4 @@
 
 1. Interpretable machine learning
 2. Casual inference
-3. Propogation on structured data
+3. Propagation on structured data
