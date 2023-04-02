@@ -8,10 +8,11 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-### <a href="https://sm.ms/image/3GyzKWIYFqmHBnT" target="_blank"><img src="https://s2.loli.net/2022/04/25/3GyzKWIYFqmHBnT.png" ></a>
+### <a href="https://sm.ms/image/3GyzKWIYFqmHBnT" target="_blank"><img src="https://avatars.githubusercontent.com/u/104359704?s=200&v=4" ></a>
 
-🙋‍ This is a sub-group of [Cyclododecene](https://github.com/Cyclododecene), mainly focusing on quantitative economics, sociology and communication research:
+🙋‍ This is a research group in Department of Statistics, BNU-HKBU United International College mainly focusing on quantitative economics, sociology and communication research:
 
 1. Interpretable machine learning
-2. Casual inference
-3. Propagation on structured data
+2. Propagation on structured data
+3. Neutral Language Processing (Information Grouping, Summarization)
+3. Medical Image Analysis/Processing (Image Synthesis)
