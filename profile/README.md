@@ -10,7 +10,7 @@
 
 ### <a href="https://sm.ms/image/3GyzKWIYFqmHBnT" target="_blank"><img src="https://avatars.githubusercontent.com/u/104359704?s=200&v=4" ></a>
 
-🙋‍ This is a research group in Department of Statistics, BNU-HKBU United International College mainly focusing on quantitative economics, sociology and communication research:
+🙋‍ This is a research group in Department of Statistics, BNU-HKBU United International College mainly focusing on:
 
 1. Interpretable machine learning
 2. Propagation on structured data
